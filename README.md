@@ -6,7 +6,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Graduating my master's degree in computer science
-- 🌱 I’m currently learning Causal inference, LLMs, Machine learning
+- 🌱 I’m currently learning NLP, Scraping, LLMs, Machine learning
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
